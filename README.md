@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Java, Typescript and frameworks: Spring Boot for backend and React for frontend.
 - 📫 How to reach me: zubeyireser@protonmail.com
 
-- 🚀 Open Source Projects
+# 🚀 Open Source Projects
 
-# [shelf.nu](https://github.com/Shelf-nu/shelf.nu.git)
+- [shelf.nu](https://github.com/Shelf-nu/shelf.nu.git)
 A brief description of the project.
 
 - **Contribution**: Technical documentation for custom React hook.
