@@ -6,9 +6,9 @@
 # 🚀 Open Source Projects
 
 - [shelf.nu](https://github.com/Shelf-nu/shelf.nu.git)
-A brief description of the project.
+Asset Management Infrastructure
 
-- **Contribution**: Technical documentation for custom React hook.
+-- **Contribution**: Technical documentation for custom React hook.
 <!---
 ZuebeyirEser/ZuebeyirEser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
