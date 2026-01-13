@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ZuebeyirEser
-- 👀 I’m studying Bachelor in Software Design at TH Aschaffenburg.
-- 🌱 I’m currently work on web app that uses Python, Typescript, React for front-end backend uses Fastapi with Postgress db
+- Hi, I’m Zübeyir
+- I’m studying Bachelor in Software Design at TH Aschaffenburg.
 - 📫 How to reach me: zubeyireser@protonmail.com
 
 <!---
