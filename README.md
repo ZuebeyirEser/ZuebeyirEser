@@ -2,7 +2,17 @@
 - I’m studying Bachelor in Software Design at TH Aschaffenburg.
 - 📫 How to reach me: zubeyireser@protonmail.com
 
-<!---
-ZuebeyirEser/ZuebeyirEser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEacQ2ZRYJKwYBBAHaRw8BAQdA9gSlPSXuMOQI3r1Pz59E1QLFwMxEHGNuO7p8
+DeDbhku0KlrDvGJleWlyIEVzZXIgPHp1YmV5aXJlc2VyQHByb3Rvbm1haWwuY29t
+PoiZBBMWCgBBFiEEfP64QcOPnezaMlvLHZdgOfaP4ZMFAmnENmUCGwMFCQHhM4AF
+CwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQHZdgOfaP4ZOVBQD6A8Sp3F70
+XTo3m2T0LV38xC5N+vUBp0XBsqScbEY7cHEA+wbKo+qLIY8zQesIICIRKz8rtGVU
+UhgYurL0/UPJuJADuDgEacQ2ZRIKKwYBBAGXVQEFAQEHQOvpcIIYTVsDXXAEhqpn
+bAS8ukGv3FtaFQBek53A508VAwEIB4h+BBgWCgAmFiEEfP64QcOPnezaMlvLHZdg
+OfaP4ZMFAmnENmUCGwwFCQHhM4AACgkQHZdgOfaP4ZPvTAEA/H8AwJylRqsfTN1X
+Eak0GREhjxDan2HnKIUHPAlQizMA/ivRcskRC9qONw0Gz0YswGEo8OfIxK1XKXWM
+WiC0AAoB
+=nVJH
+-----END PGP PUBLIC KEY BLOCK-----
