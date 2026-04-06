@@ -1,3 +1,3 @@
 - Hi, I’m Zübeyir
 - I’m studying Bachelor in Software Design at TH Aschaffenburg.
-- 📫 How to reach me: (PGP key) https://keys.openpgp.org/vks/v1/by-fingerprint/7CFEB841C38F9DECDA325BCB1D976039F68FE193
+- 📫 How to reach me: https://keys.openpgp.org/vks/v1/by-fingerprint/7CFEB841C38F9DECDA325BCB1D976039F68FE193
